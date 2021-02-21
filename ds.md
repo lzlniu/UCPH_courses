@@ -1,4 +1,4 @@
-## [Catalog](../../)
+## [Catalog](/UCPH_courses)
 
 ### NDAB18000U - Data Science
 
