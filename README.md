@@ -9,6 +9,7 @@ Note: you can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/
  - [NDAA09007U Computability and Complexity](/UCPH_courses/coco)
  - [NDAK15007U Machine Learning](/UCPH_courses/ml)
  - [NDAB18000U Data Science](/UCPH_courses/ds)
+ - [NBIA05008U Biological Sequence Analysis](/UCPH_courses/bsa)
  - ...
 
 ### Alumni pages/blogs
