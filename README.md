@@ -11,7 +11,7 @@ Note: you can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/
 
 ### Study notes
 
-#### [NDAB18000U - Data Science](/UCPH_courses/ds)
+#### [NDAB18000U - Data Science](../../ds)
 #### ...
 #### ...
 
