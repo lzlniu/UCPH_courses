@@ -5,10 +5,10 @@ Note: you can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/
 
 ### Study notes
 
-#### [NDAB18000U Data Science](/UCPH_courses/ds)
 #### [NDAK10009U Computational Geometry](/UCPH_courses/cg)
 #### [NDAA09007U Computability and Complexity](/UCPH_courses/coco)
 #### [NDAK15007U Machine Learning](/UCPH_courses/ml)
+#### [NDAB18000U Data Science](/UCPH_courses/ds)
 #### ...
 
 ### Alumni pages/blogs
