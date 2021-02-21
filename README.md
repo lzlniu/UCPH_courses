@@ -1,19 +1,19 @@
-## Edit the contents
+Note: you can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/edit/main/README.md) to maintain and preview the content for this website in Markdown files. By creating a branch and pull request, you can edit all the information in this site.
 
-You can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/edit/main/README.md) to maintain and preview the content for this website in Markdown files. By creating a branch and pull request, you can edit all the information in this site.
+## Courses
 
-### Catalog
+### Repositories
 
-#### Repositories
-[NDAK15007U - Machine Learning](https://github.com/lzlniu/UCPH_machine_learning_course) - lzlniu\
-...\
-...\
-...
+#### [NDAK15007U - Machine Learning](https://github.com/lzlniu/UCPH_machine_learning_course)\
+#### ...\
+#### ...\
+#### ...
 
-#### Study materials
-...\
-...\
-...
+#### Study notes
+
+#### [NDAB18000U - Data Science](/UCPH_courses/ds)\
+#### ...\
+#### ...
 
 <!--
 ```markdown
