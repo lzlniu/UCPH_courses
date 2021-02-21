@@ -1,4 +1,4 @@
-## [Catalog](/UCPH_courses/README)
+## [Catalog](../)
 
 ### NDAB18000U - Data Science
 
