@@ -1,13 +1,20 @@
-## Welcome to GitHub Pages
+## Edit the contents
 
-You can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/edit/main/README.md) to maintain and preview the content for this website in Markdown files. By creating a branch and pull request, you can edit all the information in this site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Catalog
 
-### Markdown
+#### 1 Courses repositories
+1.1 [NDAK15007U - Machine Learning](https://github.com/lzlniu/UCPH_machine_learning_course) - lzlniu
+1.2 ...
+1.3 ...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2 Courses study materials
+2.1 ...
+2.2 ...
+2.3 ...
 
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -35,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
