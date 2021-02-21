@@ -5,14 +5,14 @@ You can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/edit/m
 ### Catalog
 
 #### 1 Courses repositories
-1.1 [NDAK15007U - Machine Learning](https://github.com/lzlniu/UCPH_machine_learning_course) - lzlniu
-1.2 ...
-1.3 ...
+1.1 [NDAK15007U - Machine Learning](https://github.com/lzlniu/UCPH_machine_learning_course) - lzlniu\
+1.2 ...\
+1.3 ...\
 
 #### 2 Courses study materials
-2.1 ...
-2.2 ...
-2.3 ...
+2.1 ...\
+2.2 ...\
+2.3 ...\
 
 <!--
 ```markdown
