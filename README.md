@@ -4,12 +4,13 @@ Note: you can use the [editor on GitHub](https://github.com/lzlniu/UCPH_courses/
 ## Catalog
 
 ### Study notes
-
+ - [NDAA09023U Advanced Algorithms and Data Structures](/UCPH_courses/aads)
  - [NDAK10009U Computational Geometry](/UCPH_courses/cg)
  - [NDAA09007U Computability and Complexity](/UCPH_courses/coco)
- - [NDAK15007U Machine Learning](/UCPH_courses/ml)
  - [NDAB18000U Data Science](/UCPH_courses/ds)
+ - [NDAK15007U Machine Learning](/UCPH_courses/ml)
  - [NBIA05008U Biological Sequence Analysis](/UCPH_courses/bsa)
+ - [NBIA05014U Structural Bioinformatics](/UCPH_courses/strubio)
  - ...
 
 ### Alumni pages/blogs
