@@ -4,4 +4,8 @@
 
  - [Preparation notes - Xiqing Mao](https://github.com/lzlniu/UCPH_courses/blob/main/PDF/BSA.pdf)
 
-<embed src="/UCPH_courses/PDF/BSA.pdf" width="100%" height="700px">This browser does not support to view PDFs</embed>
+<object data="/UCPH_courses/PDF/BSA.pdf" type="application/pdf" width="100%" height="700px">
+    <embed src="/UCPH_courses/PDF/BSA.pdf">
+        <p>This browser does not support to view PDFs.</p>
+    </embed>
+</object>
